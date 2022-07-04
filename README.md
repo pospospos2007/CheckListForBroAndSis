@@ -14,10 +14,11 @@
 ### Python 
 https://github.com/jackfrued/Python-100-Days
 ### Java
-https://pan.baidu.com/s/4gnxgP9p
+https://pan.baidu.com/s/1h5jEkqsZ_IOxiXzfpIPevw?pwd=vjkn
 ### 算法
 https://pan.baidu.com/s/4mnPqiRA
 ### Typescript
+https://pan.baidu.com/s/18yYbSL04vH9mWAqb5d-MgA?pwd=gt31
 
 
 ## 6. 论牙齿的重要性，至少看一次牙医，早晚刷牙，学会使用牙线 
