@@ -4,9 +4,9 @@
 
 ## 1. 饮食：少吃盐，少吃糖，不喝任何饮料，多喝水
 
-## 2. 学会Google 搜索, 我不在的话找文璐要软件
+## 2. 学会Google 搜索, 我不在的话问文璐怎么做。
 
-## 3. Work out, 每日锻炼身体30分钟，推荐跑步、俯卧撑等 
+## 3. Work out, 每日锻炼身体30分钟，推荐跑步、俯卧撑等
 ## 4. 注册Dropbox，Chrome, 百度云云盘账户，QQ，知乎，Gmail电子邮箱，telegram，Oracle免费云服务，teamviewer，Github, 练习leetcode
  
 ## 5. 自我教育：维基百科， Youtube，学会分辨信息的真实性，找第一手资料、来源，以前从各种途经学过的常识（如历史）有很大一部分是误导的、不全面的，所以需要自己花时间去纠正。
@@ -21,7 +21,6 @@ https://pan.baidu.com/s/1nxI4kF100dJ7Fi0m0wx3Sw?pwd=hyjf
 https://pan.baidu.com/s/18yYbSL04vH9mWAqb5d-MgA?pwd=gt31
 ### Optional, 书籍
 https://pan.baidu.com/s/1mNxTEoHWG-EfxLl1KazMcQ?pwd=b4jg
-
 
 
 ## 6. 论牙齿的重要性，至少看一次牙医，早晚刷牙，学会使用牙线 
