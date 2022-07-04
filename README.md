@@ -9,7 +9,7 @@
 ## 3. Work out, 每日锻炼身体30分钟，推荐跑步、俯卧撑等 
 ## 4. 注册Dropbox，百度云云盘账户，QQ，知乎，Gmail电子邮箱，telegram，Oracle免费云服务，teamviewer，Github, 练习leetcode
  
-## 5. 自我教育：维基百科， Youtube，学会分辨信息的真实性，找第一手资料、来源，以前从学校、社会学过的常识（如历史）有很大一部分是误导的、不全面的，所以需要自己花时间去纠正。
+## 5. 自我教育：维基百科， Youtube，学会分辨信息的真实性，找第一手资料、来源，以前从各种途经学过的常识（如历史）有很大一部分是误导的、不全面的，所以需要自己花时间去纠正。
 
 ### Python 
 https://github.com/jackfrued/Python-100-Days
