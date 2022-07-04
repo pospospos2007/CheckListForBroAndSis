@@ -27,7 +27,8 @@ https://pan.baidu.com/s/1mNxTEoHWG-EfxLl1KazMcQ?pwd=b4jg
 ## 7. 提醒身边女生25岁之前有条件的话考虑接种HPV疫苗 
 ## 8. 去打印店扫描备份所有重要的文件（如毕业证），发送到自己的电子邮箱 
 ## 9.尽量少装国产软件，远离中药  
-## 10.生活向导、价值取向：圣经评论查阅。 例：gossip? bible , Grace > Drama. 搜索格式: 问题 + bible
+## 10.生活向导、价值取向：圣经评论查阅。 
+例：gossip? bible , Grace > Drama. 搜索格式: 问题 + bible
 ### Bible
 http://bible.albert6.com
 ### John Calvin
