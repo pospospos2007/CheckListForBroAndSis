@@ -11,11 +11,13 @@
  
 ## 5. 自我教育：维基百科， Youtube，学会分辨信息的真实性，找第一手资料、来源，以前从学校、社会学过的常识（如历史）有很大一部分是误导的、不全面的，所以需要自己花时间去纠正。
 
-Python https://github.com/jackfrued/Python-100-Days
-Java
+### Python 
+https://github.com/jackfrued/Python-100-Days
+### Java
 https://pan.baidu.com/s/4gnxgP9p
-算法 https://pan.baidu.com/s/4mnPqiRA
-Typescript
+### 算法
+https://pan.baidu.com/s/4mnPqiRA
+### Typescript
 
 
 ## 6. 论牙齿的重要性，至少看一次牙医，早晚刷牙，学会使用牙线 
@@ -23,8 +25,9 @@ Typescript
 ## 8. 去打印店扫描备份所有重要的文件（如毕业证），发送到自己的电子邮箱 
 ## 9.尽量少装国产软件，远离中药  
 ## 10.生活向导、价值取向：圣经评论查阅。 例：gossip? bible , Grace > Drama. 搜索格式: 问题 + bible
-Bible http://albert6.bible.com
-John Calvin
+### Bible
+http://albert6.bible.com
+### John Calvin
 https://www.studylight.org/commentaries/eng/cal.html
-Matthew Henry
+### Matthew Henry
 https://www.christianity.com/bible/commentary/matthew-henry-complete/
