@@ -26,7 +26,7 @@ https://pan.baidu.com/s/4mnPqiRA
 ## 9.尽量少装国产软件，远离中药  
 ## 10.生活向导、价值取向：圣经评论查阅。 例：gossip? bible , Grace > Drama. 搜索格式: 问题 + bible
 ### Bible
-http://albert6.bible.com
+http://bible.albert6.com
 ### John Calvin
 https://www.studylight.org/commentaries/eng/cal.html
 ### Matthew Henry
