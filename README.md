@@ -31,7 +31,7 @@ https://www.dropbox.com/sh/2glvt5ua85w4pke/AAC9WEEIgLtiTivruvPb4e85a?dl=0
 ## 8. 去打印店扫描备份所有重要的文件（如毕业证），发送到自己的电子邮箱 
 ## 9.尽量少装国产软件，远离中药  
 ## 10.生活向导、价值取向，圣经评论查阅。 
-例：gossip? bible , Grace > Drama. 搜索格式: 问题 + bible
+例：gossip? bible , Grace > Karma. 搜索格式: 问题 + bible
 ### Bible
 http://bible.albert6.com
 ### John Calvin
